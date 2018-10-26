@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Holis prro 
+=======
+ana
+>>>>>>> 0af10dd43f624a1780dee679a8b70ec38ad481fa
