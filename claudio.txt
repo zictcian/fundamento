@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 jajajaja xd hola
 este es mi archivo
+=======
+para claudio
+>>>>>>> 08952eb6546ad839e8beb9c9462beb4f4ee6ff49
